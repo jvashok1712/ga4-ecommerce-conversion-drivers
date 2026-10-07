@@ -1,0 +1,15 @@
+cut,segment,users,pct_viewed_product,conversion_pct,conv_pct_if_viewed,conv_pct_if_not,lift_x
+Country,United States,73402,20.3,1.6,6.68,0.31,21.6
+Country,Other countries,57077,20.1,1.49,6.25,0.3,21.0
+Country,India,15689,20.4,1.59,6.8,0.26,26.5
+Country,Canada,12623,20.8,1.6,6.33,0.36,17.6
+Country,United Kingdom,5300,19.9,1.66,6.73,0.4,16.8
+Country,France,3350,19.8,1.76,8.01,0.22,35.9
+Device,desktop,97386,20.4,1.54,6.39,0.31,20.9
+Device,mobile,66308,20.1,1.61,6.83,0.3,22.5
+Device,tablet,3747,19.6,1.36,5.59,0.33,16.9
+Traffic source,organic,64265,20.3,1.62,6.69,0.33,20.3
+Traffic source,(none),39812,20.3,1.51,6.31,0.29,21.5
+Traffic source,<Other>,30184,20.0,1.57,6.68,0.3,22.4
+Traffic source,referral,23906,20.3,1.46,6.13,0.27,22.9
+Traffic source,cpc,9256,19.7,1.67,7.22,0.31,23.3

@@ -1,0 +1,9 @@
+behaviour,users_did_it,pct_of_new_users,conv_pct_if_did,conv_pct_if_not,lift_x
+Engaged 2+ minutes,21387,12.7,10.03,0.33,30.8
+5+ page views,25269,15.0,8.59,0.32,27.1
+Viewed a product,34907,20.7,6.35,0.31,20.8
+Scrolled a page,84389,50.1,2.94,0.17,17.2
+Saw a promotion,63293,37.6,3.62,0.32,11.5
+Clicked a product,5656,3.4,12.23,1.19,10.3
+Clicked a promotion,4297,2.6,4.33,1.48,2.9
+Used search,7892,4.7,3.89,1.44,2.7

@@ -1,0 +1,9 @@
+term,odds_ratio,p_value
+viewed_product,2.160,0.000
+clicked_product,0.747,0.000
+used_search,0.659,0.000
+clicked_promo,0.598,0.000
+log_engaged_sec,1.534,0.000
+log_page_views,3.792,0.000
+C(device)[T.mobile],1.056,0.227
+C(device)[T.tablet],0.956,0.774

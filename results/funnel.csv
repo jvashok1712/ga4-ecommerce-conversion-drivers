@@ -1,0 +1,7 @@
+step_order,step,users,pct_of_visitors,pct_of_previous_step
+1,Visited site,167441,100.0,
+2,Viewed a product,37180,22.2,22.2
+3,Added to cart,7481,4.47,20.1
+4,Started checkout,5647,3.37,75.5
+5,Added payment info,3442,2.06,61.0
+6,Purchased,2622,1.57,76.2

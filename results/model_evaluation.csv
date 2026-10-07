@@ -1,0 +1,4 @@
+model,AUC,PR_AUC,precision_top10pct,recall_top10pct
+Logistic regression,0.937,0.369,0.112,0.823
+Gradient boosting,0.943,0.349,0.112,0.824
+Rule: viewed a product,0.843,0.058,0.066,0.851

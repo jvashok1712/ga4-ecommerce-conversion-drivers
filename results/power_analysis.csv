@@ -1,0 +1,3 @@
+primary_metric,baseline,relative_lift,users_per_group,total_users,days_needed
+30-day conversion,0.0157,0.10,103196,206392,75
+First-session product-view rate,0.202,0.10,6426,12852,4.7

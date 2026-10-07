@@ -1,0 +1,7 @@
+days_to_purchase,sort_order,buyers,pct_of_buyers,cumulative_pct
+Same day,0,1773,67.6,67.6
+1 day,1,152,5.8,73.4
+2-3 days,2,119,4.5,78.0
+4-7 days,4,189,7.2,85.2
+8-14 days,8,170,6.5,91.6
+15-30 days,15,219,8.4,100.0
