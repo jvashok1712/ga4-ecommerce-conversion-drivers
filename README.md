@@ -1,4 +1,4 @@
-# Finding the Aha Moment: What Makes New Users Buy?
+# GA4 E-commerce Conversion Drivers: What Makes New Users Buy?
 
 **An end-to-end product analytics project on Google's GA4 e-commerce data (BigQuery, SQL, Python, Data Studio).**
 
@@ -134,7 +134,7 @@ More result tables are in [`results/`](results/).
 
 ## How to reproduce
 
-1. Create a free Google Cloud project with the BigQuery sandbox and a dataset called `analysis` (location **US**, to match the public dataset).
+1. Create a free Google Cloud project with the BigQuery sandbox and a dataset called `analysis` (location **US**, to match the public dataset). The queries use the project ID `aha-moment-analysis`; replace it with your own project ID.
 2. Run the SQL files in order (01 → 09) in the BigQuery console. Expected counts are noted in comments.
 3. Open the notebook in Google Colab, authenticate, and run all cells.
 4. Connect Data Studio to the `dash_*` tables.
